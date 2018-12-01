@@ -32,6 +32,7 @@ penalty= 'l1', solver = 'liblinear',
 准确率 0.6521739130434783
 
 ![混淆矩阵](https://github.com/yukiiwong/Logistic-regression-using-LIBLINEAR-in-sklearn/blob/master/Figure_1.png)
+
 分类报告               precision    recall  f1-score   support
 
            0       0.90      0.56      0.69        16
